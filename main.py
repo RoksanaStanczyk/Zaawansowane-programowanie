@@ -3,7 +3,8 @@ def introduce(name, surname):
     x = (f"Cześć {name} {surname}!")
     return x
 
-introduce("Roksana", "Stanczyk")
+zmienna_1 = introduce("Roksana", "Stanczyk")
+print(zmienna_1)
 
 # 2
 def multiplication(a, b):
