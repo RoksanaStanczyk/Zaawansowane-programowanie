@@ -1,4 +1,4 @@
-1
+# 1
 def introduce(name, surname):
     x = (f"Cześć {name} {surname}!")
     return x
@@ -33,7 +33,7 @@ def compare_num(a, b, c):
 
 compare_num(1,2,3)
 
-5
+# 5
 def check (num_list, num):
     if num == num_list:
         print(True)
