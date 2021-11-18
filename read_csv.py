@@ -7,6 +7,7 @@ file = open('movies.csv', encoding="utf8")
 def read(path):
     type(file)
     csvreader = csv.reader(file)
+    next(csvreader)
 
     rows = []
     for row in csvreader:
