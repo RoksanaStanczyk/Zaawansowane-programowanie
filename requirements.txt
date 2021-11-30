@@ -229,4 +229,3 @@ xlrd==1.2.0
 XlsxWriter==1.4.3
 yapf==0.29.0
 zipp==3.4.0
-Procfile
