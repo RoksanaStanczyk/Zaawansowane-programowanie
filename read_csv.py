@@ -2,7 +2,7 @@ import csv
 from Movie import Movie
 from Links import Links
 from Ratings import Ratings
-from lab7.Tags import Tags
+from Tags import Tags
 
 
 def read(path):
